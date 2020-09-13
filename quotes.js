@@ -105,7 +105,7 @@ module.exports = [
     },
     {
         "quote": "Si me hubiese tocado salir a juntar cartones, yo voy de caño",
-        "author": "Axel Kicillof"
+        "author": "Juan Grabois"
     },
     {
         "quote": "Si algún muchacho quiere vivir de lo ajeno, vive de lo ajeno, pero con códigos",
